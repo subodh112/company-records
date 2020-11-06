@@ -1,0 +1,11 @@
+*.idea
+*.log
+*.pot
+*.pyc
+venv
+*.sqlite3
+local_settings.py
+.vagrant
+*migrations/*
+*/*/migrations
+*/*/djangomaster.sqlite3
